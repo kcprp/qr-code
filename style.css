@@ -3,7 +3,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh; /* This ensures the body takes up at least the full height of the viewport */
+  height: 100vh; 
   background-color: hsl(212, 45%, 89%)
 } 
 
